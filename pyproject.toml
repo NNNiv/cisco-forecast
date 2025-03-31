@@ -8,5 +8,8 @@ dependencies = [
     "black[jupyter]>=25.1.0",
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.1",
+    "numpy>=2.2.4",
+    "scipy>=1.15.2",
+    "seaborn>=0.13.2",
     "statsmodels>=0.14.4",
 ]
